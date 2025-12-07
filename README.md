@@ -57,6 +57,25 @@
 
 ### 🔓 Open-Source Hardware Projects.
 
+## 🛠️ Technical Expertise
+
+### *💻 Programming  *
+
+| *Languages* | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+
+
+### *🔌 Electronics & Embedded Systems*
+| *Category* | *Skills & Technologies* |
+|--------------|--------------------------|
+| *PCB Design* | ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white) ![Eagle](https://img.shields.io/badge/Eagle-000000?style=for-the-badge&logo=autodesk&logoColor=white) |
+| *Hardware Design* | Circuit Design • Schematic Capture • Component Selection • Signal Integrity • Power Management |
+| *Embedded Systems* | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) |
+| *IoT Development* | ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white) ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-000000?style=for-the-badge&logo=wifi&logoColor=white) |
+| *Semiconductors* | Microcontrollers • Sensors • Actuators • Power Electronics • Analog/Digital Circuits |
+
+
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61580013442236) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mdsabbirhossain.sourav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sabbir-hossain-sourav/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MdSabbir1001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdsabbirhossainsourav92@gmail.com) 
 
