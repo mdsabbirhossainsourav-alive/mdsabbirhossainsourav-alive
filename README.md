@@ -58,13 +58,7 @@
 ### 🔓 Open-Source Hardware Projects.
 
 
-
 ## 🛠️ Technical Expertise
-
-### *💻 Programming  *
-
-| *Languages* | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-
 
 ### *🔌 Electronics & Embedded Systems*
 | *Category* | *Skills & Technologies* |
