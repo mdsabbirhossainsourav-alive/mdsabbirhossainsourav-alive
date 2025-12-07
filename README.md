@@ -30,18 +30,18 @@
 ---
 
 ## 💡Skills
----
+
 ### Programming 👨‍💻
----
+
 ## C/C++ | Python 🐍.
 
 ### 📱Electronics.
----
+
 ### Arduino🔷| Raspberry Pi🍓| KiCad📐| Proteus🧩| EasyEDA & Eagle🖥.
 
 
 ## 🔁 Version Control
----
+
 ### Git & GitHub✨.
 
 
@@ -49,7 +49,7 @@
 ---
 
 ## ⭐Interests
----
+
 ### 🤖 Robotics & ⚙️ Automation.
 
 ### 🌐 Internet of Things (IoT).
