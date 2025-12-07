@@ -17,7 +17,6 @@
 ### 💻 Practicing Python 🐍 | C/C++ ➕➕.
 
 
----
 
 ## 🌱 Currently Learning✨
 ---
@@ -27,10 +26,10 @@
 
 ### 🧮 Circuit Simulation & 🧰 Professional PCB Design Tools.
 
----
+
 
 ## 💡Skills
-
+---
 ### Programming 👨‍💻
 
 ## C/C++ | Python 🐍.
