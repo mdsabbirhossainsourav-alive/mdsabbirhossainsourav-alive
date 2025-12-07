@@ -6,6 +6,7 @@
 ---
 
 ## 🔭 Currently Working On
+---
 
 ### 🛠️ Developing Embedded Systems Projects with Arduino 🔷 & Raspberry Pi🍓.
 
@@ -19,7 +20,7 @@
 ---
 
 ## 🌱 Currently Learning✨
-
+---
 ### 🎛️ Advanced Microcontroller Programming💻.
 
 ### 🤖 Machine Learning (ML) & 🧠 AI for Electronics.
@@ -29,18 +30,18 @@
 ---
 
 ## 💡Skills
-
+---
 ### Programming 👨‍💻
-
+---
 ## C/C++ | Python 🐍.
 
 ### 📱Electronics.
-
+---
 ### Arduino🔷| Raspberry Pi🍓| KiCad📐| Proteus🧩| EasyEDA & Eagle🖥.
 
 
 ## 🔁 Version Control
-
+---
 ### Git & GitHub✨.
 
 
@@ -48,7 +49,7 @@
 ---
 
 ## ⭐Interests
-
+---
 ### 🤖 Robotics & ⚙️ Automation.
 
 ### 🌐 Internet of Things (IoT).
@@ -62,7 +63,7 @@
 ---
 
 ## 🛠️ Technical Expertise
-
+---
 ### *🔌 Electronics & Embedded Systems*
 | *Category* | *Skills & Technologies* |
 |--------------|--------------------------|
