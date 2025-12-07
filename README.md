@@ -59,11 +59,7 @@
 
 
 
-
-
-
-
-## 🛠️ Technical Expertise
+#🛠️ Technical Expertise
 
 ### *🔌 Electronics & Embedded Systems*
 | *Category* | *Skills & Technologies* |
