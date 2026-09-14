@@ -10,13 +10,13 @@
 ## Currently Working On
 ---
 
-### .Developing Embedded Systems Projects with Arduino & Raspberry Pi.
+### Developing Embedded Systems Projects with Arduino & Raspberry Pi.
 
-### .Building IoT-based Smart Devices.
+### Building IoT-based Smart Devices.
 
-### .Learning PCB Design 🪛 & Electronic Circuit Simulation.
+### Learning PCB Design 🪛 & Electronic Circuit Simulation.
 
-### .Practicing Python & C/C++.
+### Practicing Python & C/C++.
 ---
 
 ## Currently Learning
