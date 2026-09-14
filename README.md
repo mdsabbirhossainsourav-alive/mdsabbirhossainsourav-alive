@@ -8,7 +8,6 @@
 ---
 
 ## Currently Working On
----
 
 #### Developing Embedded Systems Projects with Arduino & Raspberry Pi.
 
@@ -17,10 +16,9 @@
 #### Learning PCB Design 🪛 & Electronic Circuit Simulation.
 
 #### Practicing Python & C/C++.
----
 
 ## Currently Learning
----
+
 #### Advanced Microcontroller Programming.
 
 #### Machine Learning (ML) & AI for Electronics.
@@ -28,7 +26,7 @@
 #### Circuit Simulation & Professional PCB Design Tools.
 
 ## Skills
----
+
 #### Programming 
 
 #### C/C++ & Python .
@@ -42,8 +40,6 @@
 
 #### Git & GitHub.
 
----
-
 ## Interests
 
 #### Robotics & ⚙️ Automation.
@@ -54,10 +50,8 @@
 
 #### Open-Source Hardware Projects.
 
----
-
 ##  Technical Expertise
----
+
 ### *Electronics & Embedded Systems*
 | *Category* | *Skills & Technologies* |
 |--------------|--------------------------|
@@ -98,7 +92,6 @@
 
 ### Email: mdsabbirhossainsourav92@gmail.com
 
----
 
 # Electronics isn’t just a subject—it's the foundation of the Future.
 
