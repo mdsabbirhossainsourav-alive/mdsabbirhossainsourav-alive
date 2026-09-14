@@ -1,3 +1,11 @@
+<p align="center">
+  <img align="center" alt="Coding" width="100%" src="<img width="1254" height="315" alt="Screenshot 2026-09-14 130822" src="https://github.com/user-attachments/assets/0e7c1d56-3d9b-45dc-8d73-42a3820b52de" />
+" />
+</p>
+
+<div align="center">
+  <h1 align="center">🖥 Md Sabbir Hossain Sourav </h1>
+
 #  Hi, I’m Md. Sabbir Hossain Sourav
 
 ## 🎓Electronics Engineering Student ⚡ | 👨‍💻 Programmer | 🔧 Hardware & Embedded Systems Enthusiast 🖥| 💡 Focused on Embedded Systems 🛠️| IoT🌐|  Robotics🤖|  Circuit Design🔌| 🧩Hardware & Semiconductor Interested🔬|  Ai & ML🧠.
