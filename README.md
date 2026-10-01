@@ -39,8 +39,14 @@
 #### https://drive.google.com/file/d/16Fqa-szglmKL9LnZiDFCSZzGa3PpXS90/view?usp=drivesdk 
 #### https://drive.google.com/file/d/1Oj3R5Q_41MLpalccxapFG5jBa5lxwa3A/view?usp=sharing
 
-### Arduino| Raspberry Pi| KiCad| Proteus| EasyEDA & Eagle.
-
+## Tools
+* Altium Designer — PCB Design & Schematic Development
+* Arduino IDE — Embedded Programming & Hardware Prototyping
+* EasyEDA — PCB Design
+* Raspberry Pi — Embedded Systems, IoT & Hardware Development
+* KiCad — Schematic & PCB Design
+* Proteus — Circuit Simulation
+* EAGLE — PCB Design & Layout
 
 ## Version Control
 * Git & GitHub.
