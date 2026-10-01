@@ -15,8 +15,6 @@
 * Developing Basic Hardware–Software Integration Projects.
 * Learning Microcontroller Programming & Embedded Systems.
 
-#### Practicing Python & C/C++.
-
 ## Currently Learning
 * Basic Microcontroller Programming.
 * Basic Machine Learning & AI Concepts.
