@@ -24,10 +24,14 @@
 #### Circuit Simulation & Professional PCB Design Tools.
 
 ## Skills
+* Electronics & Circuit Design — Analog and digital circuit design, analysis, and troubleshooting.
+* Embedded Systems — Microcontrollers, embedded programming, and hardware–software integration.
+* PCB Design & Prototyping — PCB development, circuit prototyping, and hardware testing
+* Sensors & Interfacing — Sensor integration, signal interfacing, and data acquisition
+* Hardware Troubleshooting — Testing, debugging, fault diagnosis, and electronic system maintenance
+* C/C++ Programming — Algorithm development, embedded programming, and problem solving
+* Digital Electronics — Logic circuits, digital systems, and microcontroller-based applications
 
-#### Programming 
-#### C/C++ & Python .
-#### Electronics.
 
 ## Certificates
 #### https://drive.google.com/file/d/16Fqa-szglmKL9LnZiDFCSZzGa3PpXS90/view?usp=drivesdk 
