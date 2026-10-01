@@ -9,6 +9,7 @@
 
 ## Currently Working On
 
+
 ### Developing Embedded Systems Projects with Arduino & Raspberry Pi.
 
 ### Building IoT-based Smart Devices.
@@ -20,17 +21,13 @@
 ## Currently Learning
 
 ### Advanced Microcontroller Programming.
-
 ### Machine Learning (ML) & AI for Electronics.
-
 ### Circuit Simulation & Professional PCB Design Tools.
 
 ## Skills
 
 ### Programming 
-
 ### C/C++ & Python .
-
 ### Electronics.
 
 ## Certificates
@@ -47,11 +44,8 @@
 ## Interests
 
 ### Robotics & ⚙️ Automation.
-
 ### Internet of Things (IoT).
-
 ### AI Integration in Electronics.
-
 ### Open-Source Hardware Projects.
 
 ##  Technical Expertise
