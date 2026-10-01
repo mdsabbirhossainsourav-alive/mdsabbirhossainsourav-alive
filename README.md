@@ -9,50 +9,50 @@
 
 ## Currently Working On
 
-#### Developing Embedded Systems Projects with Arduino & Raspberry Pi.
+### Developing Embedded Systems Projects with Arduino & Raspberry Pi.
 
-#### Building IoT-based Smart Devices.
+### Building IoT-based Smart Devices.
 
-#### Learning PCB Design 🪛 & Electronic Circuit Simulation.
+### Learning PCB Design 🪛 & Electronic Circuit Simulation.
 
-#### Practicing Python & C/C++.
+### Practicing Python & C/C++.
 
 ## Currently Learning
 
-#### Advanced Microcontroller Programming.
+### Advanced Microcontroller Programming.
 
-#### Machine Learning (ML) & AI for Electronics.
+### Machine Learning (ML) & AI for Electronics.
 
-#### Circuit Simulation & Professional PCB Design Tools.
+### Circuit Simulation & Professional PCB Design Tools.
 
 ## Skills
 
-#### Programming 
+### Programming 
 
-#### C/C++ & Python .
+### C/C++ & Python .
 
-#### Electronics.
+### Electronics.
 
 ## Certificates
 #### https://drive.google.com/file/d/16Fqa-szglmKL9LnZiDFCSZzGa3PpXS90/view?usp=drivesdk 
 #### https://drive.google.com/file/d/1Oj3R5Q_41MLpalccxapFG5jBa5lxwa3A/view?usp=sharing
 
-#### Arduino| Raspberry Pi| KiCad| Proteus| EasyEDA & Eagle.
+### Arduino| Raspberry Pi| KiCad| Proteus| EasyEDA & Eagle.
 
 
 ## Version Control
 
-#### Git & GitHub.
+### Git & GitHub.
 
 ## Interests
 
-#### Robotics & ⚙️ Automation.
+### Robotics & ⚙️ Automation.
 
-#### Internet of Things (IoT).
+### Internet of Things (IoT).
 
-#### AI Integration in Electronics.
+### AI Integration in Electronics.
 
-#### Open-Source Hardware Projects.
+### Open-Source Hardware Projects.
 
 ##  Technical Expertise
 
@@ -97,5 +97,5 @@
 ### Email: mdsabbirhossainsourav92@gmail.com
 
 
-# Electronics isn’t just a subject—it's the foundation of the Future.
+## Electronics isn’t just a subject—it's the foundation of the Future.
 
