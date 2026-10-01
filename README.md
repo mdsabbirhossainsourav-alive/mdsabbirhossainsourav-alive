@@ -8,20 +8,24 @@
 ---
 
 ## Currently Working On
-
-#### Developing Embedded Systems Projects with Arduino & Raspberry Pi.
-
-#### Building IoT-based Smart Devices.
-
-#### Learning PCB Design 🪛 & Electronic Circuit Simulation.
+* Developing Embedded Systems Projects with Arduino & Raspberry Pi.
+* Building IoT-Based Smart Devices.
+* Learning PCB Design & Electronic Circuit Simulation.
+* Working with Sensors, Modules & Electronic Components.
+* Developing Basic Hardware–Software Integration Projects.
+* Learning Microcontroller Programming & Embedded Systems.
 
 #### Practicing Python & C/C++.
 
 ## Currently Learning
-
-#### Advanced Microcontroller Programming.
-#### Machine Learning (ML) & AI for Electronics.
-#### Circuit Simulation & Professional PCB Design Tools.
+* Basic Microcontroller Programming.
+* Basic Machine Learning & AI Concepts.
+* Basic Circuit Simulation.
+* PCB Design Fundamentals.
+* Electronic Circuit Design.
+* Arduino & Microcontroller Projects.
+* Basic Sensors & Components.
+* Circuit Testing & Troubleshooting.
 
 ## Skills
 * Electronics & Circuit Design — Analog and digital circuit design, analysis, and troubleshooting.
@@ -41,16 +45,18 @@
 
 
 ## Version Control
-
-#### Git & GitHub.
-
+* Git & GitHub.
 
 ## Interests
+* Robotics & Automation.
+* Internet of Things (IoT).
+* AI Integration in Electronics.
+* Open-Source Hardware Projects.
+* Arduino & Raspberry Pi.
+* Embedded Systems.
+* Electronic Circuit Design.
+* PCB Design & Circuit Simulation.
 
-#### Robotics & ⚙️ Automation.
-#### Internet of Things (IoT).
-#### AI Integration in Electronics.
-#### Open-Source Hardware Projects.
 
 ##  Technical Expertise
 
